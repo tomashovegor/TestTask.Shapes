@@ -19,7 +19,7 @@
             }
         }
 
-        public override double GetSquare()
+        public override double GetArea()
         {
             // Округление не добавлено, так как в условиях не было указано, нужно ли округлять результаты
             return Math.PI * Math.Pow(Radius, 2);

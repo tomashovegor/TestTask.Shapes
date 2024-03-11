@@ -52,7 +52,7 @@
             }
         }
 
-        public override double GetSquare()
+        public override double GetArea()
         {
             double p = (SideA + SideB + SideC) / 2;
 

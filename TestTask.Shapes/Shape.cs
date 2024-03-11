@@ -2,6 +2,6 @@
 {
     public abstract class Shape
     {
-        public abstract double GetSquare();
+        public abstract double GetArea();
     }
 }
